@@ -1,6 +1,6 @@
 <?php
 
-$conexion=mysqli_connect("localhost","root","","loggin");
+$conexion=mysqli_connect("localhost:3306","root","","loggin");
 
 
 ?>
