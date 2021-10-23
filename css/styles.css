@@ -167,6 +167,49 @@ h1 {
 
 
 
+/* OFERTA SECTION */
+
+.equipo h2 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .equipo .divider, .products .divider {
+    background-color: #ff5500;
+    width: 50px;
+    height: 3px;
+    margin: 0 auto;
+  }
+  
+  .equipo .equipo-content {
+    width: 70%;
+    margin: 0 auto;
+    display: grid;
+    display: flex;
+    align-items: center;
+  }
+  
+  .equipo .equipo-info p{
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  
+  .equipo .equipo-info h3 {
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    color: #ffffff;
+    font-size: 30px;
+  }
+
+
+
+
+
+
 .galeria-port{
     display: flex;
     justify-content: space-evenly;
