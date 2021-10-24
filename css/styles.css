@@ -167,7 +167,7 @@ h1 {
 
 
 
-/* OFERTA SECTION */
+/* EQUIPO SECTION */
 
 .equipo h2 {
     color: #ffffff;
@@ -221,6 +221,73 @@ h1 {
     border: 1px solid #fff;
     margin: 20px;
   }
+
+
+
+
+
+  /* SOPORTE SECTION */
+
+.soporte h2 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .soporte .divider, .products .divider {
+    background-color: #ff5500;
+    width: 50px;
+    height: 3px;
+    margin: 0 auto;
+  }
+  
+  .soporte .soporte-content {
+    width: 70%;
+    margin: 0 auto;
+    display: grid;
+    display: flex;
+    align-items: center;
+  }
+  
+  .soporte .soporte-info p{
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  
+  .soporte .soporte-info h3 {
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    color: #ffffff;
+    font-size: 35px;
+  }
+
+  .read-more {
+    background-color: #ff5500;
+    padding: 8px 40px;
+    font-size: 1.2em;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    
+  }
+
+  .read-more {
+    background: none;
+    border: 1px solid #fff;
+    margin: 20px;
+  }
+
+
+
+
+
+
+
+
 
 
 
