@@ -25,7 +25,7 @@ h1 {
 }
 
 
-
+ /* NAVBAR SECTION */
 
 .banner {
 
@@ -136,7 +136,7 @@ h1 {
 
 
 
-
+ /* CARRUSEL SECTION */
  
 
 .carousel-item, .carousel-item active {
@@ -291,7 +291,7 @@ h1 {
 
 
 
-
+ /* SECCION DE COMPONENTES DE COMPUTADORA */
 .galeria-port{
     display: flex;
     justify-content: space-evenly;
@@ -349,7 +349,7 @@ h1 {
 }
 
 
-
+ /* SECCION DEL FOOTER */
 footer{
     background: #414141;
     padding: 60px 0 30px 0;
